@@ -1,0 +1,1 @@
+test.py是实验中的测试程序，在安装由Facebook提供的segment-anything-main后即可正常运行。
